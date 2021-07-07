@@ -13,7 +13,7 @@ const router = createRouter({
     {
       path: '/:pathMatch(.*)*',
       redirect: {
-        name: 'home'
+        path: process.env.NODE_ENV === 'production' ? '/vue3-template/' : '/'
       }
     }
   ]
