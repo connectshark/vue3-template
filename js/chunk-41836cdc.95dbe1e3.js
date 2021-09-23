@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-41836cdc"],{6511:function(n,c,t){"use strict";t.r(c);var e=t("7a23"),o=t("cf05"),u=t.n(o);const a=Object(e["f"])("img",{alt:"Vue logo",src:u.a},null,-1),l=Object(e["f"])("h2",null,"Hi! 快速使用vue3做出網頁template",-1);function r(n,c){return Object(e["o"])(),Object(e["d"])(e["a"],null,[a,l],64)}var i=t("d959"),p=t.n(i);const s={},f=p()(s,[["render",r]]);c["default"]=f},cf05:function(n,c,t){n.exports=t.p+"img/logo.82b9c7a5.png"}}]);
+//# sourceMappingURL=chunk-41836cdc.95dbe1e3.js.map
