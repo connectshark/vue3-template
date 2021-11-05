@@ -1,8 +1,4 @@
 module.exports = {
-  css: {
-    sourceMap: false
-  },
-
   publicPath: process.env.NODE_ENV === 'production'
     ? '/vue3-template/'
     : '/',
@@ -17,5 +13,7 @@ module.exports = {
       compositionOnly: false,
       fullInstall: true
     }
-  }
+  },
+
+  productionSourceMap: false
 }
