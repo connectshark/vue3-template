@@ -1,5 +1,7 @@
 # vue3-template
 
+[vite + vue3模板](https://github.com/connectshark/vite-template)
+
 開發vue3使用的快速模板
 
 ## 專案已包含內容
@@ -24,7 +26,7 @@
 
 ## 使用template首次設定
 
-你可以點選 [use this template](/connectshark/vue3-template/generate) 直接將此模板複製到自己的github上
+你可以點選 `use this template` 直接將此模板複製到自己的github上
 
 接者你需要手動修改幾個部分
 
