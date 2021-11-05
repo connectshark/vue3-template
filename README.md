@@ -28,13 +28,13 @@
 
 接者你需要手動修改幾個部分
 
-1. 專案更名
+### 1. 專案更名
 
 - `package.json`中的專案名稱
 - `package-lock.json`中的專案名稱
 - `vue.config.js`中的`publicPath`
 主要是把專案名稱命名為自訂的專案名稱
 
-2. 推上github後開啟專案page的功能
+### 2. 推上github後開啟專案page的功能
 
 `setting` -> `page` -> `source` -> 選擇 `gh-page`
